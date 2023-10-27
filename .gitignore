@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts
+build/
+dist/
+
+# Cache directories
+.cache/
+yarn-error.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Temporary files
+*.log
+*.pid
+*.pid.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
